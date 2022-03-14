@@ -1,4 +1,3 @@
-/* Universals */
 *{
     /* color:rgb(31, 30, 30); */
     font-family: 'Roboto', sans-serif;
@@ -8,7 +7,6 @@
 html{
     scroll-behavior: smooth;
 }
-
 
 /* IDs */
 
