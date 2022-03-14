@@ -9,10 +9,13 @@ html{
 }
 
 
-.hero-logo-txt{
-    font-size: 24px;
-    color:#f9faf8;
-}
+/* IDs */
+
+/* #quote{
+    display: block;
+    max-width: 50%;
+    margin: auto;
+} */
 
 button{
     color:white;
@@ -23,8 +26,20 @@ button:hover{
     background-color: #0a4199;
 }
 
+/* CLASSES */
+.container-center{
+    display: block;
+    max-width: 60%;
+    margin: auto;
+    padding:50px;
+}
 
 /* fonts */
+.hero-logo-txt{
+    font-size: 24px;
+    color:#f9faf8;
+}
+
 .hero-main-txt{
     font-size: 48px;
     color:#f9faf8;
@@ -42,11 +57,19 @@ button:hover{
     color:#e5e7eb;
 }
 
-.quote{
+.quote-txt{
     font-size: 36px;
     color: #1f2937;
     font-weight: 300;
     font-style: italic;
+}
+
+.quote-sig-txt{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 600;
+    font-style: italic;
+    text-align: right;
 }
 
 /* background colors */
