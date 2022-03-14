@@ -32,6 +32,13 @@ button:hover{
     padding:40px;
 }
 
+.hero-center{
+    display: block;
+    max-width: 70%;
+    margin: auto;
+    padding:40px;
+}
+
 .container-call{
     display: block;
     max-width: 60%;
@@ -54,9 +61,9 @@ button:hover{
 /* Images */
 
 .hero-img{
-    height: 200px;
-    width: 600px;
-    background-color: #9c9c9c;
+    height: 250px;
+    width: 500px;
+    background-color: #818181;
 }
 
 .mini-img{
