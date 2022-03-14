@@ -1,0 +1,10 @@
+/* stylesheet */
+
+*{
+    color:rgb(31, 30, 30);
+    font-size: 20px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
