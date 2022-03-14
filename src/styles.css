@@ -53,6 +53,11 @@ button:hover{
     justify-content: center;
 }
 
+.flex-container-nav{
+    display: flex;
+    justify-content: center;
+}
+
 .flex-item{
     flex-direction: row;
     margin: 20px;
