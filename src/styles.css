@@ -38,18 +38,20 @@ button:hover{
 }
 
 .flex-container{
-    display: flex
+    display: flex;
+    justify-content: center;
 }
 
 .flex-item{
-    padding:2px;
     flex-direction: row;
+    margin: 20px;
 }
 
 /* Images */
 .mini-img{
     border: 3px solid #3882f6;
-    margin: 4px;
+    margin-bottom: 8px;
+    margin-left: 10px;
     height: 150px;
     width: 150px;
     border-radius: 15px;
@@ -70,7 +72,7 @@ button:hover{
 
 .info-header-txt{
     font-size: 36px;
-    font-weight: 800;
+    font-weight: 900;
     color: #1f2937;
 }
 
