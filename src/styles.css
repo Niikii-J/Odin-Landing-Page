@@ -12,15 +12,12 @@ html{
 
 /* IDs */
 
-/* #quote{
-    display: block;
-    max-width: 50%;
-    margin: auto;
-} */
-
 button{
     color:white;
     background-color: #3882f6;
+    padding: 15px;
+    border: 2px solid white;
+    border-radius: 20px;
 }
 
 button:hover{
@@ -35,6 +32,14 @@ button:hover{
     max-width: 60%;
     margin: auto;
     padding:40px;
+}
+
+.container-call{
+    display: block;
+    max-width: 60%;
+    margin: auto;
+    padding:40px;
+    background-color: #3882f6;
 }
 
 .flex-container{
