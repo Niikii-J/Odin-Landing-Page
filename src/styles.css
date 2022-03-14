@@ -2,6 +2,7 @@
 *{
     color:rgb(31, 30, 30);
     font-family: 'Roboto', sans-serif;
+    line-height: 1.3;
 }
 
 html{
@@ -60,15 +61,15 @@ button:hover{
 .quote-txt{
     font-size: 36px;
     color: #1f2937;
-    font-weight: 300;
+    font-weight: 400;
     font-style: italic;
+    text-align: left;
 }
 
 .quote-sig-txt{
-    font-size: 36px;
+    font-size: 24px;
     color: #1f2937;
-    font-weight: 600;
-    font-style: italic;
+    font-weight: 900;
     text-align: right;
 }
 
