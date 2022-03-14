@@ -1,5 +1,4 @@
-/* stylesheet */
-
+/* Universals */
 *{
     color:rgb(31, 30, 30);
     font-size: 20px;
@@ -8,3 +7,58 @@
 html{
     scroll-behavior: smooth;
 }
+
+
+.hero-logo-txt{
+    font-size: 24px;
+    color:#f9faf8;
+}
+
+button{
+    color:white;
+    background-color: #3882f6;
+}
+
+button:hover{
+    background-color: #0a4199;
+}
+
+
+/* fonts */
+.hero-main-txt{
+    font-size: 48px;
+    color:#f9faf8;
+    font-weight: 800;
+}
+
+.info-header-txt{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.hero-secondary-txt{
+    font-size: 18px;
+    color:#e5e7eb;
+}
+
+.quote{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* background colors */
+.dark-bg{
+    background-color: #1f2937;
+}
+
+.light-bg{
+    background-color: #e5e7eb;
+}
+
+.call-to-action{
+    background-color: #3882f6;
+}
+
